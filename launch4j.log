@@ -1,0 +1,54 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder\RMF.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder\.
+Java min ver:	1.011.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.9
+Check launcher:	C:\Program Files\Java\jdk-11.0.9\bin\javaw.exe (OK)
+Match:		1.011.000_009
+Runtime used:	1.011.000_009 (64-bit)
+Substitute:	EXEDIR = C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder
+Substitute:	EXEDIR = C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder
+Substitute:	EXEDIR = C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder
+Launcher:	C:\Program Files\Java\jdk-11.0.9\bin\javaw.exe
+Launcher args:	-Dlaunch4j.exedir="C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder" -Dlaunch4j.exedir="C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder" -Dlaunch4j.exedir="C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder" -jar "C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder\RMF.exe"
+Args length:	354/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder\Rosplay Music Finder.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder\.
+Java min ver:	1.011.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.9
+Check launcher:	C:\Program Files\Java\jdk-11.0.9\bin\javaw.exe (OK)
+Match:		1.011.000_009
+Runtime used:	1.011.000_009 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11.0.9\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Chri-\eclipse-workspace\BERANGER_MOSQUERA\RosplayMusicFinder\Rosplay Music Finder.exe"
+Args length:	101/32768 chars
+Exit code:	0
